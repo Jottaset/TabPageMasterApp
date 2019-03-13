@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="TabPageMasterApp.PageTwo"
+             Title="PageTwo">
+    
+    <StackLayout>
+        
+        <!-- Place new controls here -->
+        
+        <Label Text="-- MAL_ELEMENTO --"
+               FontSize="20"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"
+               BindingContext="{x:Reference Name=slider_top}"
+               Rotation="{Binding Path=Value}"/>
+        
+        <Slider x:Name="slider_top"
+                BackgroundColor="Gray"
+                VerticalOptions="CenterAndExpand"
+                Minimum="0"
+                Maximum="360"/>
+        
+        
+    </StackLayout>
+    
+    
+</ContentPage>

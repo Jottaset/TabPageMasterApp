@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{2566B1D9-2B17-414B-8079-0BA4E078F6F7}|Default">
+  <MonoDevelop.Ide.ItemProperties.TabPageMasterApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TabPageMasterApp/MainPage.xaml.cs">
+    <Files>
+      <File FileName="TabPageMasterApp/MainPage.xaml.cs" Line="14" Column="62" />
+      <File FileName="TabPageMasterApp/MainPage.xaml" Line="28" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TabPageMasterApp" expanded="True">
+            <Node name="TabPageMasterApp" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+              <Node name="PageTwo.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TabPageMasterApp.Android PreferredExecutionTarget="Android.5711d61d" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

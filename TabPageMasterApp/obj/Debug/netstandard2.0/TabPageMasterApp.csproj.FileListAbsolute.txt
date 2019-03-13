@@ -1,0 +1,12 @@
+/Users/aluno/Projects/TabPageMasterApp/TabPageMasterApp/bin/Debug/netstandard2.0/TabPageMasterApp.deps.json
+/Users/aluno/Projects/TabPageMasterApp/TabPageMasterApp/bin/Debug/netstandard2.0/TabPageMasterApp.dll
+/Users/aluno/Projects/TabPageMasterApp/TabPageMasterApp/bin/Debug/netstandard2.0/TabPageMasterApp.pdb
+/Users/aluno/Projects/TabPageMasterApp/TabPageMasterApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/TabPageMasterApp/TabPageMasterApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/TabPageMasterApp/TabPageMasterApp/obj/Debug/netstandard2.0/PageTwo.xaml.g.cs
+/Users/aluno/Projects/TabPageMasterApp/TabPageMasterApp/obj/Debug/netstandard2.0/TabPageMasterApp.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/TabPageMasterApp/TabPageMasterApp/obj/Debug/netstandard2.0/TabPageMasterApp.AssemblyInfoInputs.cache
+/Users/aluno/Projects/TabPageMasterApp/TabPageMasterApp/obj/Debug/netstandard2.0/TabPageMasterApp.AssemblyInfo.cs
+/Users/aluno/Projects/TabPageMasterApp/TabPageMasterApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/TabPageMasterApp/TabPageMasterApp/obj/Debug/netstandard2.0/TabPageMasterApp.dll
+/Users/aluno/Projects/TabPageMasterApp/TabPageMasterApp/obj/Debug/netstandard2.0/TabPageMasterApp.pdb
